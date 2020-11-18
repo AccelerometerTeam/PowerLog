@@ -1,0 +1,52 @@
+;PC Software:PMManager Version 3.31 Build 2
+! ******* Warning: Do not modify this file. Changes may prevent   ********
+! ******* the PMManager Log reader from opening the file correctly. ********
+;Logged:14/11/2020 at 04:00:31
+;File Version:5
+;Time Resolution:1 microseconds
+;Log Settings:Sample:of period: 00:00:10
+;Graph Mode:Merge
+;Graph Type:Line
+;Notes:                                                            
+
+;Channel A:843-R-USB Thermopile 919P-030-18 (s/n:950105)  EF1.39 (s/n:947127)
+;Channel B:841-PE-USB Thermopile 919P-030-18 (s/n:904190)  FO2.04 (s/n:903878)
+
+;Channel A:Details
+;Name:919P-030-18
+;Graph Color:RGB(14,104,168)
+;Units:W
+;Settings:Measuring:Power
+;Settings:Wavelength:380
+;Settings:Range:AUTO
+
+;Channel B:Details
+;Name:919P-030-18
+;Graph Color:RGB(245,86,16)
+;Units:W
+;Settings:Measuring:Power
+;Settings:Wavelength:380
+;Settings:Range:AUTO
+
+;Channel A:Statistics
+;Min:2.454W              
+;Max:2.474W              
+;Average:2.464W              
+;Std.Dev.:14.14mW             
+;Overrange:0                   
+
+;Channel B:Statistics
+;Min:2.062W              
+;Max:2.079W              
+;Average:2.071W              
+;Std.Dev.:12.02mW             
+;Overrange:0                   
+;--------------------
+
+
+;First Pulse Arrived : 14/11/2020 at 04:00:31.551946
+  Timestamp   	  Channel A  	  Channel B  	
+         0.000	             	  2.079e+000 	
+         0.037	  2.474e+000 	             	
+        10.065	             	  2.062e+000 	
+        10.100	  2.454e+000 	             	
